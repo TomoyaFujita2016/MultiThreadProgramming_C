@@ -1,1 +1,3 @@
 # MultiThreadProgramming_C
+
+組み込み用コンピュータ実装論でのプログラム
